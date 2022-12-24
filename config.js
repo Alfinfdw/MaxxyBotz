@@ -6,8 +6,8 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106'],
-  ['6282195322106', '️OWNER - HINATA', true]
+  ['6285380166282'],
+  ['6285380166282', '️OWNER - MaxxyBotz', true]
 ]
 global.mods = []
 global.prems = []
@@ -83,15 +83,15 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.nomorbot = '6285295374964'
+global.nomorown = '6285380166282'
+global.namebot = 'MaxxyBotz'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 ʜɪɴᴀᴛᴀ-ʙᴏᴛ あ⁩ 」'
+global.wm = '                「 MaxxyBotz あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.wm3 = '⫹⫺ MaxxyBotz'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -107,13 +107,13 @@ global.flaaa = [
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=']
 
 /*Link*/
-global.sig = 'https://www.instagram.com/wudysoft'
-global.sgh = 'https://www.github.com/wudysoft'
-global.sgc = 'https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI'
-global.sdc = 'https://www.discord.com/wudysoft'
-global.snh = 'https://www.tiktok.com/@upload_file'
-global.sfb = 'https://www.facebook.com/'
-global.syt = 'https://www.youtube.com/'
+global.sig = 'https://www.instagram.com/kahfiofc'
+global.sgh = 'https://www.github.com/'
+global.sgc = 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
+global.sdc = 'https://www.discord.com/'
+global.snh = 'https://www.tiktok.com/@betruxtiktok08'
+global.sfb = 'https://www.facebook.com/kahfiofc'
+global.syt = 'https://www.youtube.com/@MaxxyBotz'
 
 /*Nsfw*/
 global.optsnsfw = true
@@ -136,7 +136,7 @@ global.lolm = 'Ⓛ'
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
 global.packname = '𝗠𝗮𝗱𝗲 𝗕𝘆'
 global.stickpack = packname
-global.author = '𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁'
+global.author = 'MaxxyBotz 乂 Kahfi-XD'
 global.stickauth = author + '\nwa.me/' + nomorbot
 global.multiplier = 10
 
@@ -144,22 +144,22 @@ global.multiplier = 10
 global.eror = '*E R R O R*'
 global.wait = '*W A I T*'
 global.render = '*R E N D E R*'
-global.webs = 'https://s.id/Cerdasin62'
-global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
+global.webs = 'https://lynk.id/kahfi.xd'
+global.gcwangsaf = 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
 
 /*Donasi*/
-global.saweria = 'https://saweria.com/wudysoft'
-global.dana = '0887435373103'
-global.pulsa = '082195322106'
-global.trakteer = 'https://trakteer.id/wudysoft'
-global.paypal = 'wudysoft@mail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
-global.psaweria = 'https://saweria.com/Wudysoft'
+global.saweria = 'https://saweria.com/MaxxyBotz'
+global.dana = '085380166282'
+global.pulsa = '085295374964'
+global.trakteer = 'https://trakteer.id/'
+global.paypal = '-'
+global.gopay = '-'
+global.pdana = '085380166282'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '085295374964'
+global.ppulsa2 = '085295374964'
+global.psaweria = 'https://saweria.com/MaxxyBotz'
 
 /*Emoji*/
 global.rpg = {
